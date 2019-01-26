@@ -1,1 +1,1 @@
-##A Collection of useful snippets and shortcuts.
+## A Collection of useful snippets and shortcuts.
